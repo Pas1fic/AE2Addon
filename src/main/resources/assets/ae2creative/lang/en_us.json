@@ -1,0 +1,7 @@
+{
+  "itemGroup.ae2creative": "AE2 Creative Cells",
+  "item.ae2creative.creative_cell_coal": "Creative Cell (Coal)",
+  "item.ae2creative.creative_cell.named": "Creative Cell (%s)",
+  "tooltip.ae2creative.stores": "Stores: ∞ × %s",
+  "tooltip.ae2creative.type": "Type: Creative Cell"
+}
